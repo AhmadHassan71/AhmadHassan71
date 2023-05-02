@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width="100"/>
+</div>
+
 <!--
 **AhmadHassan71/AhmadHassan71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
