@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width="50%" height="50%"/>
 </div>
 
-<p style="text-align: center;"> Hi there 👋</h1></p>
+<p style="text-align: center;"> Hi there 👋 </h1></p>
 <!--
 **AhmadHassan71/AhmadHassan71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
