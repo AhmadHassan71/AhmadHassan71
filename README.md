@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<h1><div id="header" align="center">
   <img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width="50%" height="50%"/>
 </div>
 
-# Hi there 👋
+Hi there 👋</h1>
 <!--
 **AhmadHassan71/AhmadHassan71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
