@@ -6,7 +6,7 @@
 </div>
 
 # About me
-I am a Computer Science undergraduate student at Fast-NUCES. I am passionate about web development, game development and am always eager to learn new things. I enjoy solving problems and turning ideas into reality through programming.
+I am a Computer Science undergraduate student at Fast-NUCES. I am passionate about web development, game development and am always eager to learn new things. I enjoy solving problems and turning ideas into reality through programming. I am seeking an internship in software engineering and game development, where I can apply my skills and knowledge to real-world projects and gain valuable experience in the industry.
 
 ## Skills
 
@@ -22,7 +22,6 @@ I am a Computer Science undergraduate student at Fast-NUCES. I am passionate abo
 - [Project 2](link-to-project-2) - Description of project 2
 - [Project 3](link-to-project-3) - Description of project 3
 
-### looking for internships
 
 ## Education
 
@@ -31,7 +30,6 @@ I am a Computer Science undergraduate student at Fast-NUCES. I am passionate abo
 ## Contact me
 
 - [LinkedIn](https://www.linkedin.com/in/ahmad-hassan-a10781224/)
-- [Email](mailto:ahmadhassan1303@outlook.com)
 
 <!--
 **AhmadHassan71/AhmadHassan71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
