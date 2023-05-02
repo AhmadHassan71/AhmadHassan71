@@ -1,10 +1,10 @@
 # Hi, I'm Ahmad Hassan 👋
 
---
+# 
 <div id="header" align ="center">
   <img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" height="20%" width="20%">
 </div>
---
+# 
 
 I am a Computer Science undergraduate student at Fast-NUCES. I am passionate about web development, game development and am always eager to learn new things. I enjoy solving problems and turning ideas into reality through programming.
 
