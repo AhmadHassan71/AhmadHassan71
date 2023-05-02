@@ -31,7 +31,7 @@ I am a Computer Science undergraduate student at Fast-NUCES. I am passionate abo
 ## Contact me
 
 - [LinkedIn](https://www.linkedin.com/in/ahmad-hassan-a10781224/)
-- Email: ahmadhassan1303@outlook.com
+- ahmadhassan1303@outlook.com
 
 <!--
 **AhmadHassan71/AhmadHassan71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
