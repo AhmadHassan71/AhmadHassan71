@@ -6,7 +6,7 @@
 </div>
 
 ## About me
-I am an undergraduate Computer Science student at Fast-NUCES. I am passionate about web and game development. I enjoy solving problems and turning ideas into reality through programming because of my hunger to learn more. I am seeking an internship in web engineering and game development, where I can apply my skills and knowledge to real-world projects and gain valuable experience in the industry.
+I am an undergraduate Computer Science student at Fast-NUCES. I am passionate about web and game development. I enjoy solving problems and turning ideas into reality through programming because of my hunger to learn more. I am currently seeking an internship in web engineering and game development, where I can apply my skills and knowledge to real-world projects and gain valuable experience in the industry.
 
 ## Skills
 
