@@ -16,7 +16,7 @@ I am an undergraduate Computer Science student at Fast-NUCES. I am passionate ab
 - Database: MySQL, SQLSERVER
 - Tools: GitHub, VS Code, VisualStudio
 
-## Projects
+## Personal Projects
 
 - [Brick-Smasher-Game](https://github.com/AhmadHassan71/Brick-Smasher) - An modified version of the popular game, brick breaker
 - [Item-Raiders](https://github.com/AhmadHassan71/Multiplayer-Item-Collection-Game-Item-Raiders) - Item Raiders is a simple multiplayer game where multiple players can move around a game board and collect items.
