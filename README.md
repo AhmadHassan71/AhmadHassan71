@@ -6,14 +6,14 @@
 </div>
 
 ## About me
-I am an undergraduate Computer Science student at Fast-NUCES. I am passionate about web and game development. I enjoy solving problems and turning ideas into reality through programming because of my hunger to learn more. I am currently a React Developer internee, where I  apply my skills and knowledge to real-world projects and gain valuable experience in the industry.
+I am an undergraduate Computer Science student at Fast-NUCES. I am passionate about web and game development. I enjoy solving problems and turning ideas into reality through programming because of my hunger to learn more. I am currently a MERN stack developer, where I  apply my skills and knowledge to real-world projects and gain valuable experience in the industry.
 
 ## Skills
 
 - Programming languages: Python, C, C++
-- Web development: React.js, Socket.io, Redux.js, ASP.NET
+- Web development: React.js, Nodejs, Expressjs, Socket.io, Redux.js, ASP.NET
 - Game development: SDL2, GLUT
-- Database: MySQL, SQLSERVER
+- Database: MySQL, SQLSERVER, MongoDB
 - Tools: GitHub, VS Code, VisualStudio
 
 ## Personal Projects
