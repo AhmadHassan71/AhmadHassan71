@@ -10,11 +10,11 @@ I am an undergraduate Computer Science student at Fast-NUCES. I am passionate ab
 
 ## Skills
 
-- Programming languages: Python, C, C++
+- Programming languages: Python, C, C++, Java
 - Web development: React.js, Nodejs, Expressjs, Socket.io, Redux.js, ASP.NET
 - Game development: SDL2, GLUT
-- Database: MySQL, SQLSERVER, MongoDB
-- Tools: GitHub, VS Code, VisualStudio
+- Database: MySQL, Oracle, SQLSERVER, MongoDB
+- Tools: GitHub, VS Code, VisualStudio, Eclipse
 
 ## Personal Projects
 
