@@ -22,6 +22,7 @@ I am an undergraduate Computer Science student at Fast-NUCES. I am passionate ab
 - [Item-Raiders](https://github.com/AhmadHassan71/Multiplayer-Item-Collection-Game-Item-Raiders) - Item Raiders is a simple multiplayer game where multiple players can move around a game board and collect items.
 - [JS-Calculator](https://github.com/AhmadHassan71/JS-Calculator) - A calculator app that can perform basic arithmetic operations (addition, subtraction, multiplication, and division) and handle proper numeric expressions, including parentheses and order of operations.
 - [UefaChampionsLeagueDataBase](https://github.com/AhmadHassan71/UEFA-Champions-League) - This database reflects the data of players, clubs and stadiums which were a part of UEFA Champions League from 2016-2022 and sophisticated queries are applied on that to get important statistics
+-  [Statistical Modeling useing PyMC3](https://github.com/AhmadHassan71/statistical-modeling-using-pymc3) - This repository contains code and resources for performing statistical modeling using PyMC3. This repository aims to provide you with a foundation for conducting Bayesian data analysis using PyMC3.
 - [PrivateAirportDataBase](https://github.com/AhmadHassan71/Small-Private-Aiport-Database) - This is a database that keeps track of airplanes, their owners, airport employees, and pilots.
 - [Flex Academic Suite](https://github.com/AhmadHassan71/Flex-Academic-Suite) - An academic portal for faculty and students of NUCES
 ## Education
