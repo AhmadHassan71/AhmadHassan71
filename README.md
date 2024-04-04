@@ -18,6 +18,7 @@ I am an undergraduate Computer Science student at Fast-NUCES. I am passionate ab
 
 ## Personal Projects
 
+- [Mentor Me]()- An application to connect users with potential coaches related to the fields they are interested in.
 - [VisionaryOptics](https://github.com/FarazRashid/VisionaryOptics) - Modern eyewear e-commerce platform connecting users with opticians. Explore, order, and purchase eyewear products. Utilizes OOP and DBMS principles in Java for efficiency
 - [Statistical Modeling using PyMC3](https://github.com/AhmadHassan71/statistical-modeling-using-pymc3) - This repository contains code and resources for performing statistical modeling using PyMC3. This repository aims to provide you with a foundation for conducting Bayesian data analysis using PyMC3.
 - [Bank Account Management System](https://github.com/AhmadHassan71/Java-Activities) - The Account Management System is a Java-based full stack application for managing personal bank accounts. It allows users to create and manage bank accounts for customers, perform various banking operations, and store data in different storage systems.
