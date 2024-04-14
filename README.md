@@ -17,7 +17,7 @@ I am an undergraduate Computer Science student at Fast-NUCES. I am passionate ab
 - Tools: GitHub, VS Code, VisualStudio, Eclipse
 
 ## Personal Projects
-
+- [Surmaiya](https://github.com/AhmadHassan71/Surmaiya) - Surmaiya: Go beyond generic music recommendations – dive deep into your favorite genres and personalize your musical journey.
 - [Mentor Me]()- An application to connect users with potential coaches related to the fields they are interested in.
 - [VisionaryOptics](https://github.com/FarazRashid/VisionaryOptics) - Modern eyewear e-commerce platform connecting users with opticians. Explore, order, and purchase eyewear products. Utilizes OOP and DBMS principles in Java for efficiency
 - [Statistical Modeling using PyMC3](https://github.com/AhmadHassan71/statistical-modeling-using-pymc3) - This repository contains code and resources for performing statistical modeling using PyMC3. This repository aims to provide you with a foundation for conducting Bayesian data analysis using PyMC3.
