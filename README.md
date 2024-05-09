@@ -17,6 +17,7 @@ I am an undergraduate Computer Science student at Fast-NUCES. I am passionate ab
 - Tools: GitHub, VS Code, VisualStudio, Eclipse
 
 ## Personal Projects
+- [Fintech Advise](https://github.com/FarazRashid/FintechAdvise) - FintechAdvise: A cutting-edge FinTech platform revolutionizing financial wellness. With personalized financial planning, smart investment strategies, real-time monitoring, educational resources, and robust security, FinTechAdvise empowers users to take control of their financial futures
 - [Surmaiya](https://github.com/AhmadHassan71/Surmaiya) - Surmaiya: Go beyond generic music recommendations – dive deep into your favorite genres and personalize your musical journey.
 - [Mentor Me](https://github.com/AhmadHassan71/Mentor-Me)- An application to connect users with potential coaches related to the fields they are interested in.
 - [VisionaryOptics](https://github.com/FarazRashid/VisionaryOptics) - Modern eyewear e-commerce platform connecting users with opticians. Explore, order, and purchase eyewear products. Utilizes OOP and DBMS principles in Java for efficiency
