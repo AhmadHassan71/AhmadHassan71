@@ -17,6 +17,7 @@ I am an undergraduate Computer Science student at Fast-NUCES. I am passionate ab
 - Tools: GitHub, VS Code, VisualStudio, Eclipse
 
 ## Personal Projects
+- [Chameleon](https://github.com/VertoTechnologies/Chameleon) - Chameleon: The ultimate language exchange platform designed to transform the way you connect, communicate, and learn new languages. Named after the adaptable and colorful chameleon, our app helps users seamlessly integrate into diverse linguistic communities, offering personalized and engaging experiences to foster effective language learning.
 - [Fintech Advise](https://github.com/FarazRashid/FintechAdvise) - FintechAdvise: A cutting-edge FinTech platform revolutionizing financial wellness. With personalized financial planning, smart investment strategies, real-time monitoring, educational resources, and robust security, FinTechAdvise empowers users to take control of their financial futures
 - [Surmaiya](https://github.com/AhmadHassan71/Surmaiya) - Surmaiya: Go beyond generic music recommendations – dive deep into your favorite genres and personalize your musical journey.
 - [Mentor Me](https://github.com/AhmadHassan71/Mentor-Me)- An application to connect users with potential coaches related to the fields they are interested in.
