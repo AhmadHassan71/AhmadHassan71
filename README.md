@@ -11,10 +11,11 @@ I am an undergraduate Computer Science student at Fast-NUCES. I am passionate ab
 ## Skills
 
 - Programming languages: Python, C, C++, Java
-- Web development: React.js, Nodejs, Expressjs, Socket.io, Redux.js, ASP.NET
+- Web development: React.js, Next.js, Nodejs, Expressjs, Socket.io, Redux.js, ASP.NET
 - Game development: SDL2, GLUT
-- Database: MySQL, Oracle, SQLSERVER, MongoDB
-- Tools: GitHub, VS Code, VisualStudio, Eclipse
+- Mobile development: Kotlin, Flutter
+- Database: MySQL, Oracle, SQLSERVER, MongoDB, Firebase
+- Tools: GitHub, VS Code, VisualStudio, IntelliJ and Android Studio
 
 ## Personal Projects
 - [Chameleon](https://github.com/VertoTechnologies/Chameleon) - Chameleon: The ultimate language exchange platform designed to transform the way you connect, communicate, and learn new languages. Named after the adaptable and colorful chameleon, our app helps users seamlessly integrate into diverse linguistic communities, offering personalized and engaging experiences to foster effective language learning.
