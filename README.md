@@ -24,13 +24,7 @@ I am an undergraduate Computer Science student at Fast-NUCES. I am passionate ab
 - [Mentor Me](https://github.com/AhmadHassan71/Mentor-Me)- An application to connect users with potential coaches related to the fields they are interested in.
 - [VisionaryOptics](https://github.com/FarazRashid/VisionaryOptics) - Modern eyewear e-commerce platform connecting users with opticians. Explore, order, and purchase eyewear products. Utilizes OOP and DBMS principles in Java for efficiency
 - [Statistical Modeling using PyMC3](https://github.com/AhmadHassan71/statistical-modeling-using-pymc3) - This repository contains code and resources for performing statistical modeling using PyMC3. This repository aims to provide you with a foundation for conducting Bayesian data analysis using PyMC3.
-- [Bank Account Management System](https://github.com/AhmadHassan71/Java-Activities) - The Account Management System is a Java-based full stack application for managing personal bank accounts. It allows users to create and manage bank accounts for customers, perform various banking operations, and store data in different storage systems.
-- [PrivateAirportDataBase](https://github.com/AhmadHassan71/Small-Private-Aiport-Database) - This is a database that keeps track of airplanes, their owners, airport employees, and pilots.
-- [Flex Academic Suite](https://github.com/AhmadHassan71/Flex-Academic-Suite) - An academic portal for faculty and students of NUCES
-- [Brick-Smasher-Game](https://github.com/AhmadHassan71/Brick-Smasher) - A modified version of the popular game, brick breaker
-- [Item-Raiders](https://github.com/AhmadHassan71/Multiplayer-Item-Collection-Game-Item-Raiders) - Item Raiders is a simple multiplayer game where multiple players can move around a game board and collect items.
-- [JS-Calculator](https://github.com/AhmadHassan71/JS-Calculator) - A calculator app that can perform basic arithmetic operations (addition, subtraction, multiplication, and division) and handle proper numeric expressions, including parentheses and order of operations.
-- [UefaChampionsLeagueDataBase](https://github.com/AhmadHassan71/UEFA-Champions-League) - This database reflects the data of players, clubs, and stadiums which were a part of UEFA Champions League from 2016-2022 and sophisticated queries are applied on that to get important statistics
+
 ## Education
 
 - Bachelor of Computer Science, Fast-NUCES (2021 - Present)
