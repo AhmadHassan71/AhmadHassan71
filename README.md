@@ -6,7 +6,7 @@
 </div>
 
 ## About me
-I am an undergraduate Computer Science student at Fast-NUCES. I am passionate about mobile and game development. I enjoy solving problems and turning ideas into reality through programming because of my hunger to learn more. I am currently a MERN stack developer, where I  apply my skills and knowledge to real-world projects and gain valuable experience in the industry.
+I am an undergraduate Computer Science student at Fast-NUCES. I am passionate about mobile and game development. I enjoy solving problems and turning ideas into reality through programming because of my hunger to learn more. I am currently a Fluter developer, where I  apply my skills and knowledge to real-world projects and gain valuable experience in the industry.
 
 ## Skills
 
