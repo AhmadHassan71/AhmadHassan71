@@ -12,8 +12,8 @@ I am an undergraduate Computer Science student at Fast-NUCES. I am passionate ab
 
 - Programming languages: Python, C, C++, Java
 - Web development: React.js, Next.js, Nodejs, Expressjs, Socket.io, Redux.js, ASP.NET
-- Game development: SDL2, GLUT
 - Mobile development: Kotlin, Flutter
+- DevOps: Docker, Kubernetes, Coolify
 - Database: MySQL, Oracle, SQLSERVER, MongoDB, Firebase
 - Tools: GitHub, VS Code, VisualStudio, IntelliJ and Android Studio
 
