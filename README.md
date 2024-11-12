@@ -1,6 +1,7 @@
-<h2 align="left"><center>Hi 👋! I'm Ahmad Hassan <br>
+<h1 align="center">Hi 👋! I'm Ahmad Hassan <br></h1>
+<h3 align="center">
 👨‍🎓 Software engineering student @ FAST Islamabad <br>
-🌐 Community Manager @ CloudNative Islamabad</center></h2>
+🌐 Community Manager @ CloudNative Islamabad</h3>
 
 ###
 
