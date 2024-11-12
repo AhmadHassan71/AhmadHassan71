@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! I'm Ahmad Hassan. A software engineering student from FAST Islamabad.</h2>
+<h2 align="left">Hi 👋! I'm Ahmad Hassan <br>
+👨‍🎓 Software engineering student @ FAST Islamabad <br>
+🌐 Community Manager @ CloudNative Islamabad</h2>
 
 ###
 
@@ -80,6 +82,13 @@
 
 ###
 
+# [Join Cloud Native Islamabad](https://cloudnativeislamabad.com)
+
+<a href="https://cloudnativeislamabad.com" target="_blank">
+  <img src="./images/cncf-wallpaperss.png" alt="Cloud Native Islamabad">
+</a>
+
+###
 <div align="center">
   <a href="https://open.spotify.com/user/315chro5y6yte3s6p6cujm2ww67e">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=315chro5y6yte3s6p6cujm2ww67e&count=5" alt="Spotify recently played"  />
