@@ -88,11 +88,5 @@
   <img src="./images/cncf-wallpaperss.png" alt="Cloud Native Islamabad">
 </a>
 
-###
-<div align="center">
-  <a href="https://open.spotify.com/user/315chro5y6yte3s6p6cujm2ww67e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315chro5y6yte3s6p6cujm2ww67e&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
