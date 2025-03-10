@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! I'm Ahmad Hassan <br></h1>
 <h3 align="center">
-👨‍🎓 Software engineering student @ FAST Islamabad <br>
-🌐 Community Manager @ CloudNative Islamabad</h3>
+👨‍🎓 Software engineering student @ FAST Islamabad
+</h3>
 
 ###
 
@@ -80,13 +80,6 @@
 
 <img src="https://raw.githubusercontent.com/AhmadHassan71/AhmadHassan71/output/snake.svg" alt="Snake animation" />
 
-###
-
-# [Join Cloud Native Islamabad](https://cloudnativeislamabad.com)
-
-<a href="https://cloudnativeislamabad.com" target="_blank">
-  <img src="./images/cncf-wallpaperss.png" alt="Cloud Native Islamabad">
-</a>
 
 
 ###
