@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! I'm Ahmad Hassan <br></h1>
 <h3 align="center">
-👨‍🎓 Software engineering student @ FAST Islamabad
+👨‍🎓 Founding Engineer @ Entropik Labs
 </h3>
 
 ###
